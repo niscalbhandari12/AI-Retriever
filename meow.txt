@@ -1,0 +1,1 @@
+{"the_user": {"entity": {"person": {"first_name": "nischal", "last_name": "bh"}, "first_name": "nischal", "last_name": "bh"}, "user_roles": {"role": "100123780"}, "user_data": {"primary_email": "newton15@gmail.com"}}}

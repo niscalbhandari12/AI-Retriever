@@ -1,0 +1,15 @@
+the user data is 
+the primary email is niscalbhandari12@gmail.com
+the role is 100123780
+the user roles is 
+the person is 
+the entity is 
+the first name is Nischal
+the last name is Bhandari
+the profile img is https://boomconcole.com/freeschema/d4a706e1-9ac7-4b4a-b452-80ea363e0b89.jpg
+the first name is Bhoot
+the last name is Ji
+the email is niscalbhandari12@gmail.com
+the phone is 9860086391
+the location is Baneswhor
+the role is ROLE_USER
